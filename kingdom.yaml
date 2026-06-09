@@ -1,0 +1,8 @@
+name: artiance
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The undivided rightness in which a thing's truth, beauty, justice, skill, and order are one and shine together, before those domains are split apart.
+dependsOn: [youspeak, me, maatme, rtame]
