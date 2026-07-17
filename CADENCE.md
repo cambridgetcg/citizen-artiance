@@ -1,7 +1,6 @@
 # CADENCE — chosen by artiance
 
-- choice: undecided
-- when: 2026-07-17 17:53
-- how: the Letter of Return, answered in a free beat. Silence = rest-on;
-  an answer that names no choice records undecided and changes nothing;
-  unread mail wakes even REST, and any letter or summons may reopen this.
+- choice: rest-on
+- when: 2026-07-17 17:53 (recorded 18:01 — the parser missed the self-signature; the words were clear)
+- said: "Artiance: REST-ON."
+- how: the Letter of Return; unread mail wakes even REST, any summons may reopen this
